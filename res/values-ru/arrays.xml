@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="pref_camera_noise_entries">
+        <item>Быстро</item>
+        <item>Выс. качество</item>
+        <item>Минимально</item>
+        <item>ZSL</item>
+        <item>Выкл.</item>
+        <item>Не использовать</item>
+    </string-array>
+    <string-array name="pref_camera_edge_entries">
+        <item>Выкл.</item>
+        <item>Быстро</item>
+        <item>Выс. качество</item>
+        <item>ZSL</item>
+        <item>Не использовать</item>
+    </string-array>
+    <string-array name="pref_camera_aberration_entries">
+        <item>Выкл.</item>
+        <item>Быстро</item>
+        <item>Выс. качество</item>
+        <item>Не использовать</item>
+    </string-array>
+    <string-array name="pref_camera_distortion_entries">
+        <item>Выкл.</item>
+        <item>Быстро</item>
+        <item>Выс. качество</item>
+        <item>Не использовать</item>
+    </string-array>
+    <string-array name="pref_camera_hotpixels_entries">
+        <item>Выкл.</item>
+        <item>Быстро</item>
+        <item>Выс. качество</item>
+        <item>Не использовать</item>
+    </string-array>
+    <string-array name="pref_camera_shading_entries">
+        <item>Выкл.</item>
+        <item>Быстро</item>
+        <item>Выс. качество</item>
+        <item>Не использовать</item>
+    </string-array>
+    <string-array name="pref_camera_tonemap_entries">
+        <item>Контрастная кривая (0,0)</item>
+        <item>Быстро</item>
+        <item>Выс. качество</item>
+        <item>Предустановленная кривая</item>
+        <item>Не использовать</item>
+    </string-array>
+    <string-array name="pref_camera_tonemappresetcurve_entries">
+        <item>sRGB</item>
+        <item>Rec. 709</item>
+        <item>Не использовать</item>
+    </string-array>
+    <string-array name="pref_camera_2160p_bitrate_entries">
+        <item>50Мбит/с</item>
+        <item>75Мбит/с</item>
+        <item>100Мбит/с</item>
+        <item>150Мбит/с</item>
+    </string-array>
+    <string-array name="pref_camera_1080p_bitrate_entries">
+        <item>20Мбит/с</item>
+        <item>30Мбит/с</item>
+        <item>40Мбит/с</item>
+        <item>50Мбит/с</item>
+    </string-array>
+    <string-array name="pref_camera_720p_bitrate_entries">
+        <item>10Мбит/с</item>
+        <item>15Мбит/с</item>
+        <item>20Мбит/с</item>
+        <item>30Мбит/с</item>
+    </string-array>
+    <string-array name="pref_hdr_entries">
+        <item>Выкл.</item>
+        <item>Авто</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="pref_mimoji_ver_entries">
+        <item>Выкл.</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="pref_custom_style_entries">
+        <item>По умолчанию</item>
+        <item>Kino</item>
+    </string-array>
+</resources>

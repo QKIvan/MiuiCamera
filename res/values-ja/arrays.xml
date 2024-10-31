@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_camera_noise_entries">
+        <item>速い</item>
+        <item>高品質</item>
+        <item>最小</item>
+        <item>ゼロシャッター遅延</item>
+        <item>閉鎖</item>
+        <item>変更しないでください</item>
+    </string-array>
+    <string-array name="pref_camera_edge_entries">
+        <item>閉鎖</item>
+        <item>速い</item>
+        <item>高品質</item>
+        <item>ゼロシャッター遅延</item>
+        <item>変更しないでください</item>
+    </string-array>
+    <string-array name="pref_camera_aberration_entries">
+        <item>閉鎖</item>
+        <item>最小</item>
+        <item>高品質</item>
+        <item>変更しないでください</item>
+    </string-array>
+    <string-array name="pref_camera_distortion_entries">
+        <item>閉鎖</item>
+        <item>最小</item>
+        <item>高品質</item>
+        <item>変更しないでください</item>
+    </string-array>
+    <string-array name="pref_camera_hotpixels_entries">
+        <item>閉鎖</item>
+        <item>最小</item>
+        <item>高品質</item>
+        <item>変更しないでください</item>
+    </string-array>
+    <string-array name="pref_camera_shading_entries">
+        <item>閉鎖</item>
+        <item>最小</item>
+        <item>高品質</item>
+        <item>変更しないでください</item>
+    </string-array>
+    <string-array name="pref_camera_tonemap_entries">
+        <item>比較曲線 (0,0)</item>
+        <item>最小</item>
+        <item>高品質</item>
+        <item>プリセット曲線</item>
+        <item>変更しないでください</item>
+    </string-array>
+    <string-array name="pref_camera_tonemappresetcurve_entries">
+        <item>sRGB</item>
+        <item>Rec. 709</item>
+        <item>変更しないでください</item>
+    </string-array>
+    <string-array name="pref_camera_2160p_bitrate_entries">
+        <item>50Mbps</item>
+        <item>75Mbps</item>
+        <item>100Mbps</item>
+        <item>150Mbps</item>
+    </string-array>
+    <string-array name="pref_camera_1080p_bitrate_entries">
+        <item>20Mbps</item>
+        <item>30Mbps</item>
+        <item>40Mbps</item>
+        <item>50Mbps</item>
+    </string-array>
+    <string-array name="pref_camera_720p_bitrate_entries">
+        <item>10Mbps</item>
+        <item>15Mbps</item>
+        <item>20Mbps</item>
+        <item>30Mbps</item>
+    </string-array>
+    <string-array name="pref_hdr_entries">
+        <item>閉鎖</item>
+        <item>自動</item>
+        <item>開ける</item>
+    </string-array>
+    <string-array name="pref_mimoji_ver_entries">
+        <item>閉鎖</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="pref_custom_style_entries">
+        <item>プリセット</item>
+        <item>Kino</item>
+    </string-array>
+</resources>

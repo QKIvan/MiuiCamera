@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">"&lt;Data>Can't connect to the camera.&lt;br>This app will be closed in &lt;font color=#FFCE16>&lt;b>%1$d secs&lt;/b>&lt;/font>. After this, wait a minute or two and try again.&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>Can't connect to the camera.&lt;br>This app will be closed in &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. After this, wait a minute or two and try again.&lt;/Data>"</item>
+    </plurals>
+</resources>

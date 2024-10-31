@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate sa home</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi gamit ang %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="color_effect_entry_l_natrural">Leica Natural</string>
+    <string name="color_effect_entry_l_vivid">Leica Vivid</string>
+    <string name="color_effect_entry_monochrom">Leica Monochrom</string>
+    <string name="color_effect_entry_monochrom_high_contrast">Leica Monochrom HC</string>
+    <string name="copy">Kopyahin</string>
+    <string name="cvtype_item_btn_title1">Leica Classic</string>
+    <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month">yyyy-M</string>
+    <string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+    <string name="fmt_date_short_year_month">MMM, yyyy</string>
+    <string name="fmt_time_12hour_minute_pm">h:mma</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="new_bie_dialog_cancel">Close feature description</string>
+    <string name="new_bie_dialog_desc">Feature description</string>
+    <string name="not_set">Hindi nakatakda</string>
+    <string name="pref_cv_watermark_summary">Previews are provided for your reference only. Leica watermark will appear on photos taken in \"Photo\" and \"Portrait\" modes.</string>
+    <string name="preference_copied">Nakopya sa clipboard ang \"%1$s.\"</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="v7_preference_off">NAKA-OFF</string>
+    <string name="v7_preference_on">NAKA-ON</string>
+</resources>
